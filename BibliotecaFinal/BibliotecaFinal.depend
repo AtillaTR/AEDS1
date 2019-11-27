@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1556917954 source:c:\users\atila\desktop\bibliotecafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+	<locale.h>
+
+1556918944 source:c:\users\atila\desktop\bibliotecafinal\biblioteca.c
+	"Biblioteca.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1556918021 c:\users\atila\desktop\bibliotecafinal\biblioteca.h
+
